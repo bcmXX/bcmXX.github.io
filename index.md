@@ -2,7 +2,7 @@
 
 
 
-欢迎来到我的网站-bcmxx.github.io！
+欢迎来到-bcmxx.github.io！
 <br/>
 <br/>
 <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3264057471,1474998010&fm=26&gp=0.jpg" width="20%">
