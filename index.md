@@ -15,3 +15,11 @@
 * 感谢编程猫用户@CJW天马神坑
 * ~~不会更新~~(才怪呢)
 ###### 此网站还在开发阶段，不代表这是最终质量
+strong {
+    color:#00F9A5;
+    size: 100px;
+    margin: 0em;
+    font-size: xx-large;
+    font-style: italic;
+    }
+213
