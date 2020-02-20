@@ -4,9 +4,8 @@
 
 欢迎来到我的网站-bcmxx.github.io！
 <br/>
-这是我头像，，，
 <br/>
-<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=155619668,4239430281&fm=26&gp=0.jpg" width="20%">
+<img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3264057471,1474998010&fm=26&gp=0.jpg" width="20%">
 <br/>
 ---
 <br/>
