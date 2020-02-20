@@ -3,4 +3,4 @@
 
 
 欢迎来到我的网站-bcmxx.github.io！
-![7]file:///C:/Users/2002/Downloads/4.jpg
+![7](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=155619668,4239430281&fm=26&gp=0.jpg)
